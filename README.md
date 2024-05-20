@@ -1,14 +1,17 @@
 # Мила Ѓоргоска 223031
 
 # Control flow graph <br />
-![graph drawio](https://github.com/mizerijaaa/SI_2024_lab2_223031/assets/158766503/2a6bd9ca-57df-40b1-a43c-630e15d056ad)
+
+![graph drawio](https://github.com/mizerijaaa/SI_2024_lab2_223031/assets/158766503/2a5fc011-6560-4e73-a639-f087c92c7f95)
+
+
 <br />
 # Циколматска Комплексност <br />
 Цикломатската комплексност на овој код е 10, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=9, па цикломатската комплексност изнесува 10. <br />
 
 # Тест случаи според Every branch <br />
 
-![AAAAAAAAAAAAA2024-05-20 195631](https://github.com/mizerijaaa/SI_2024_lab2_223031/assets/158766503/03941fd1-60d2-4a24-8ba0-d276a2b6415f)
+![AAAAAAAAAAAAA2024-05-20 195631](https://github.com/mizerijaaa/SI_2024_lab2_223031/assets/158766503/66fd0a0c-9f03-4da0-b482-20bf9f029c5f)
 
 <br />
 
